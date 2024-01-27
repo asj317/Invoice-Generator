@@ -1,9 +1,3 @@
-Phone,1800,37
-Laptop,2400,38
-Mouse,500,50
-Keyboard,600,50
-Earphones,800,100
-Speakers,700,10
-Monitor,2000,34
-CPU,9000,65
-HDD,2000,18
+Phone,30000,37
+Laptop,60000,38
+HDD,5000,18
